@@ -1,2 +1,2 @@
-# Clubinho da Leitura
+# Clubinho do Livro
 Aplicativo para treinamento de leitura 

@@ -1,2 +1,2 @@
-# E-leiturinha
+# Clubinho da Leitura
 Aplicativo para treinamento de leitura 

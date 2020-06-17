@@ -1,0 +1,25 @@
+/*
+Theme Name: Clubinho do Livro
+Theme URI: https://clubinhodolivro.org
+Description: Tema do site Segura a Onda
+Version: 1.0
+Author: Cátia Kitahara
+Author URI: https://catiakitahara.com.br
+Template: twentytwenty
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: seguraaonda
+*/
+
+/*GLOBAL*/
+/*Accent color*/
+.color-accent, .color-accent-hover:hover, .color-accent-hover:focus, :root .has-accent-color, .has-drop-cap:not(:focus):first-letter, .wp-block-button.is-style-outline, a {
+	color: #5085ca;
+}
+button:not(.toggle), .button, .faux-button, .wp-block-button__link, .wp-block-file .wp-block-file__button, input[type="button"], input[type="reset"], input[type="submit"], .bg-accent, .bg-accent-hover:hover, .bg-accent-hover:focus, :root .has-accent-background-color, .comment-reply-link {
+	background-color:  #5085CA;
+}
+
+body:not(.overlay-header) .primary-menu > li > a, body:not(.overlay-header) .primary-menu > li > .icon, .modal-menu a, .footer-menu a, .footer-widgets a, #site-footer .wp-block-button.is-style-outline, .wp-block-pullquote:before, .singular:not(.overlay-header) .entry-header a, .archive-header a, .header-footer-group .color-accent, .header-footer-group .color-accent-hover:hover {
+	color: #fff;
+}

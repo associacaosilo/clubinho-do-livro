@@ -1,4 +1,6 @@
+<?php
 //Enqueue scripts
+
 function cdl_enqueue_scripts() {
 
 	$parent_style = 'twentytwenty-style';
@@ -11,7 +13,7 @@ function cdl_enqueue_scripts() {
 		array( $parent_style ),
 		wp_get_theme()->get('Version')
 	);
-		
+
 }
 
 add_action( 'wp_enqueue_scripts', 'cdl_enqueue_scripts' );

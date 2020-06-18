@@ -10,6 +10,7 @@
 wp-content/*
 !wp-content/plugins/
 !wp-content/themes/
+!wp-content/languages/
 
 # ignore these plugins
 wp-content/plugins/hello.php

@@ -23,3 +23,10 @@ button:not(.toggle), .button, .faux-button, .wp-block-button__link, .wp-block-fi
 body:not(.overlay-header) .primary-menu > li > a, body:not(.overlay-header) .primary-menu > li > .icon, .modal-menu a, .footer-menu a, .footer-widgets a, #site-footer .wp-block-button.is-style-outline, .wp-block-pullquote:before, .singular:not(.overlay-header) .entry-header a, .archive-header a, .header-footer-group .color-accent, .header-footer-group .color-accent-hover:hover {
 	color: #fff;
 }
+
+/*Favorites plugin*/
+button.simplefavorite-button.preset {
+    width: auto !important;
+    margin: auto !important;
+    display: block;
+}

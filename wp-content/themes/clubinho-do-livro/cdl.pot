@@ -66,7 +66,7 @@ msgid "Clubinho do Livro"
 msgstr ""
 
 #. Author of the theme
-msgid "Cátia Kitahara"
+msgid "Associação Silo"
 msgstr ""
 
 #: functions.php:31
@@ -87,10 +87,6 @@ msgstr ""
 
 #: functions.php:137
 msgid "genre"
-msgstr ""
-
-#. Author URI of the theme
-msgid "https://catiakitahara.com.br"
 msgstr ""
 
 #. URI of the theme
@@ -220,7 +216,7 @@ msgid "Proficiency"
 msgstr ""
 
 #. Description of the theme
-msgid "Tema do site Segura a Onda"
+msgid "Tema do site Clubinho do Livro"
 msgstr ""
 
 #: functions.php:41

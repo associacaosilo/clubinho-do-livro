@@ -11,6 +11,9 @@ Text Domain: cdl
 */
 
 /*GLOBAL*/
+p {
+	text-align: justify;
+}
 /*Accent color*/
 .color-accent, .color-accent-hover:hover, .color-accent-hover:focus, :root .has-accent-color, .has-drop-cap:not(:focus):first-letter, .wp-block-button.is-style-outline, a {
 	color: #5085ca;

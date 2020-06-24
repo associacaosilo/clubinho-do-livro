@@ -23,9 +23,10 @@ get_header();
 	?>
 
 </main><!-- #site-content -->
-
-	<button id="startRecord"><img src="assets/img/botao_gravar.png" alt="GRAVAR"></button>
-	<button id="stopRecord"> <img src="assets/img/botao_pare.png" alt="PARAR"> </button>
+	<div id="gravador">
+		<button id="startRecord"><img src="assets/img/botao_gravar.png" alt="GRAVAR"></button>
+		<button id="stopRecord"> <img src="assets/img/botao_pare.png" alt="PARAR"> </button>
+	</div>
 
 <?php get_template_part( 'template-parts/footer-menus-widgets' ); ?>
 

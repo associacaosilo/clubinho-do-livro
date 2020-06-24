@@ -24,8 +24,8 @@ get_header();
 
 </main><!-- #site-content -->
 
-<button id="startRecord">Gravar</button>
-<button id="stopRecord>Parar</button>
+	<button id="startRecord"><img src="assets/img/botao_gravar.png" alt="GRAVAR"></button>
+	<button id="stopRecord"> <img src="assets/img/botao_pare.png" alt="PARAR"> </button>
 
 <?php get_template_part( 'template-parts/footer-menus-widgets' ); ?>
 
